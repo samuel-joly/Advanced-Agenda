@@ -1,14 +1,14 @@
-**Advanced Agenda**
-__An easy way to keep tracks of daily activity__
+<h1>Advanced Agenda</h1>
+An easy way to keep tracks of daily activity
 
-*Prerequisite*
+<h3>Prerequisite</h3>
 You need Python3 installed and matplotlib
 
-*Installation*
+<h3>Installation</h3>
 Just put the advAgenda.py in any empty folder and type 
 <code>python3 advAgenda.py</code>
 Or
 Put the advAgenda.pyw in any empty folder and double click it !
 
-*MatplotLib*
+<h4>MatplotLib</h4>
 If you want to check out the AMAZING graph that i've made, go inside the "Test" folder and run the make_stat.pyw file (<code>python3 make_stats.pyw</code> or just double click on it)
