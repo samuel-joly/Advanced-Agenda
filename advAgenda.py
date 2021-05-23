@@ -101,7 +101,7 @@ def make_day():
 # Read all the save_file and save it in day_list
 def get_all_save():
 	global save_file, save_note, stat_list
-	exclude_file = ['advAgenda.pyw','README.md','.git','.gitignore','all_save.txt', 'test.py','make_stats.pyw','advAgenda.ahk','advAgenda.py','2018']
+	exclude_file = ['Test','advAgenda.pyw','README.md','.git','.gitignore','all_save.txt', 'test.py','make_stats.pyw','advAgenda.ahk','advAgenda.py','2018']
 
 	save_file = [x for x in os.listdir('.') if x not in exclude_file]
 	stat_list = [0]*10
